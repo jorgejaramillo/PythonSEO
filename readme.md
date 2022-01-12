@@ -2,13 +2,12 @@
 
 Repo con algunos COLABS útiles para SEO. 
 
-## Intalación común
+## Videos con algunas instrucciones
 
-Administrador de paquetes [pip](https://pip.pypa.io/en/stable/).
+| Video | Link |
+| ------ | ------ |
+| API Google Sarch Console | [Ver video][APIGSC] |
 
-```bash
-pip install 
-```
 
 
 ## Contribución
@@ -16,3 +15,5 @@ Jorge Jaramillo - jorgejaramillo.com
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+[APIGSC]: <https://github.com/joemccann/dillinger>
